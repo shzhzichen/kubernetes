@@ -1,1 +1,0 @@
-FROM gcr.io/google-containers/heapster-grafana-amd64
