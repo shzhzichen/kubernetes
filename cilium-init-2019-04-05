@@ -1,0 +1,1 @@
+FROM docker.io/cilium/cilium-init:2019-04-05
